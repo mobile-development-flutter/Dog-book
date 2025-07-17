@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "625753007909",
+    "project_id": "petsapp-2a3d4",
+    "storage_bucket": "petsapp-2a3d4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625753007909:android:0a63d01709b6bfe12f9ccc",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9N7W2h-0jer77p4nN6QP5h2xTur71Tmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625753007909:android:e322c7eb5166e10b2f9ccc",
+        "android_client_info": {
+          "package_name": "com.example.dog_book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9N7W2h-0jer77p4nN6QP5h2xTur71Tmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
